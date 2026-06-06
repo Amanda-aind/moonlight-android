@@ -27,7 +27,8 @@ You can follow development on our [Discord server](https://moonlight-stream.org/
 ## Authors
 
 * [Cameron Gutman](https://github.com/cgutman)  
-* [Diego Waxemberg](https://github.com/dwaxemberg)  
+* [Diego Waxemberg](https://github.com/dwaxemberg)
+* 
 * [Aaron Neyer](https://github.com/Aaronneyer)  
 * [Andrew Hennessy](https://github.com/yetanothername)
 
